@@ -1,0 +1,200 @@
+[
+    {
+        "no": 0,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 1,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 2,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 3,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 4,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 5,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 6,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 7,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 8,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 9,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 10,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 11,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 12,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 13,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 14,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 15,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 16,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    },
+    {
+        "no": 17,
+        "quiz": "When I'm in the store, I care more about ...",
+        "option":[
+            {"id" : 0, "text" : "a) the exact contents of the foods I purchase", "isChecked" : false},
+            {"id" : 1, "text" : "b) the price of the foods I purchase", "isChecked" : false},
+            {"id ": 2, "text" : "Higher", "isChecked" : false},
+            {"id" : 3, "text" : "Lower", "isChecked" : false}
+
+        ]
+    }
+]
