@@ -1,4 +1,4 @@
-### [accountill.com](https://accountill.com/)
+### [invoice-timetrack]
 # MERN Stack Invoicing Application
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
 ![Invoice](https://res.cloudinary.com/almpo/image/upload/v1637311386/invoice/invoice-app_tcz0dj.png)
@@ -9,7 +9,7 @@ I am pleased to inform you that the name of this repository has been changed fro
 There are so many things coming! Stay tuned!!
 
 
-Panshak
+d@rkhorse
 ----
 
   * [Introduction](#introduction)
@@ -170,11 +170,8 @@ to keep improving the project.
 
 ## Author
 
-- Twitter: [@panshak_](https://twitter.com/panshak_)
-- Github: [@panshak](https://github.com/panshak)
-- Linkedin: [@panshak](https://www.linkedin.com/in/panshak/)
-- Email: [@ipanshak](mailto:ipanshak@gmail.com)
+d@rkhorse
 
 ## License
 
-- This project is [MIT](https://github.com/Panshak/accountill/blob/master/LICENSE.md) licensed.
+- This project is [MIT]licensed.
